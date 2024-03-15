@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as s,F as n,a as e}from"./index-LjKqdEST.js";const a={},c=e("hr",null,null,-1),l=e("div",{class:"home"},[e("h1",null,"Hello, This is Home Page."),e("button",{type:"button",class:"btn btn-primary"}," Hello ")],-1);function r(_,i,p,u,m,d){return s(),o(n,null,[c,l],64)}const f=t(a,[["render",r]]);export{f as default};
